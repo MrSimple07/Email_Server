@@ -1,5 +1,3 @@
-# Email_Server
-
 # Replica Email Server
 
 ## Table of Contents
@@ -42,3 +40,11 @@ Open a command prompt and install the necessary Python packages using pip:
 
 ```bash
 pip install smtplib imaplib email streamlit
+
+### Step 3: Download the Project Files
+
+Download the project files containing the Python scripts for SMTP, IMAP functionality, and Streamlit user interface. You can clone the repository using the following command:
+
+```bash
+git clone https://github.com/your-username/replica-email-server.git
+
