@@ -40,6 +40,7 @@ Open a command prompt and install the necessary Python packages using pip:
 
 ```bash
 pip install smtplib imaplib email streamlit
+```
 
 ### Step 3: Download the Project Files
 
@@ -47,4 +48,4 @@ Download the project files containing the Python scripts for SMTP, IMAP function
 
 ```bash
 git clone https://github.com/your-username/replica-email-server.git
-
+```
